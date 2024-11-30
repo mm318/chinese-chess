@@ -150,7 +150,7 @@ public class CCControlBar extends JPanel {
         dialog.getContentPane().add(ok);
         dialog.getContentPane().add(cancel);
 
-        dialog.resize(250, 115);
+        dialog.resize(300, 115);
         dialog.setResizable(false);
         dialog.setVisible(true);
       } else if (buttonType == LOAD) {
