@@ -25,3 +25,5 @@ Using the convenience Makefile to run the app will also implicitly rebuild
 # under the chinese-chess/ directory
 make run
 ```
+
+(Tested on Ubuntu 20.04 with OpenJDK 17.)
